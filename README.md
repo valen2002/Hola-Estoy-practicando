@@ -2,5 +2,7 @@
 Hola
 Me llamo Valentino y soy de Argentina
 # VALEN
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
